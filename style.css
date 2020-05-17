@@ -1,0 +1,32 @@
+a  {
+
+color: green;
+
+}
+
+a[href="https://www.link-group.eu/"] {
+
+color: red;
+}
+
+#second-div p:nth-child(odd) {
+
+    color:blue;
+}
+
+#second-div p:nth-child(even) {
+
+    color:red;
+}
+
+
+body :nth-child(8):hover { 
+
+font-style: italic;
+
+}
+
+
+
+
+
